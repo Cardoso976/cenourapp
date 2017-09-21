@@ -15,5 +15,6 @@
   </author>
 
   <icon src="icon.png"/>
-  <gap:splash src="splash.png" />
+  <plugin name="cordova-plugin-splashscreen" />
+  <splash src="splash.png" />
 </widget>
