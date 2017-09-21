@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+  xmlns:gap="http://phonegap.com/ns/1.0"
+  version="1.0.0"
+  id="org.rodrigocardoso.cenourapp">
+
+  <name>Só Cenoura</name>
+
+  <description>
+    Menu do restaurante Só de Cenoura
+  </description>
+
+  <author email="rodrigo_cardoso97@hotmail.com">
+    Rodrigo Cardoso
+  </author>
+
+  <icon src="icon.png"/>
+  <gap:splash src="splash.png" />
+</widget>
